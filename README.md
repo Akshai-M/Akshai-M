@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshai-m" alt="akshai-m" /></a> </p>
    <img align="right" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshai-m&label=Profile%20views&color=0e75b6&style=flat" alt="akshai-m" /> </p>
-- 🌱 I’m currently learning **MERN**
+- 💻 Unearthing the Tech Frontier: Beyond the Binary
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshai-M](https://github.com/Akshai-M)
 
