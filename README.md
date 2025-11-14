@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshai-m&label=Profile%20views&color=0e75b6&style=flat" alt="akshai-m" /> </p>
 - 💻 Unearthing the Tech Frontier: Beyond the Binary
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akshai-M](https://github.com/Akshai-M)
-
 - 📫 How to reach me **mylapuramakshaikumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
