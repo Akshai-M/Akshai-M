@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshai Kumar</h1>
-<h3 align="center">Tech Enthusiast | DEVELOPMENT</h3>
+<h3 align="center">Unearthing the Tech Frontier: Beyond the Binary</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshai-m" alt="akshai-m" /></a> </p>
    <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshai-m&label=Profile%20views&color=0e75b6&style=flat" alt="akshai-m" /> </p>
-- 💻 Unearthing the Tech Frontier: Beyond the Binary
 
 - 📫 How to reach me **mylapuramakshaikumar@gmail.com**
 
